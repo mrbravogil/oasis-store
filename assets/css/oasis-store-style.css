@@ -155,12 +155,11 @@ footer {
     padding: 65px;
 }
 .selected-collection-home {
-    padding: 100px;
+    padding-top: 100px;
 }
 
 .message {
     text-align: center;
-    padding-top: 100px;
 }
 
 .selected-product {
