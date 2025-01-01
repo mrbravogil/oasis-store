@@ -90,8 +90,8 @@ footer {
 .whiteline {
     height: 1px;
     background-color: white;
-    margin: 20px 0; /* Equal spacing above and below */
-    width: 400px; /* Ensure the line spans the full container width */
+    margin: 20px 0; 
+    width: 400px; 
 }
 
 .footlist {
@@ -154,7 +154,9 @@ footer {
     align-items: center;
     padding: 65px;
 }
-
+.selected-collection-home {
+    padding: 100px;
+}
 .selected-collection {
     padding: 0;
 }
@@ -255,7 +257,7 @@ footer {
     height: 1px;
     background-color: rgba(53, 53, 53, 0.412);
     margin: 15px 0; /* Equal spacing above and below */
-    width: 620px; /* Ensure the line spans the full container width */
+    width: 620px; 
 }
 
 .longblackline {
@@ -268,15 +270,15 @@ footer {
 }
 
 .product-prices {
-    width: 100%; /* Make sure the container spans the full width */
-    padding: 15px 0; /* Add consistent padding around the container */
+    width: 100%; 
+    padding: 15px 0; 
 }
 
 .price {
-    display: flex; /* Use flexbox for consistent alignment */
-    justify-content: space-between; /* Space out left and right details */
-    margin-bottom: 15px; /* Add spacing between price blocks */
-    padding: 10px 0; /* Add padding inside each price block */
+    display: flex; 
+    justify-content: space-between; 
+    margin-bottom: 15px; 
+    padding: 10px 0; 
 }
 
 .product-details-left {
@@ -323,13 +325,13 @@ button.addbasket {
 /* The Story Page CSS */
 
 .top-story {
-    position: relative; /* Position for overlaying elements */
-    background-size: cover; /* Make the background cover the full width */
+    position: relative; 
+    background-size: cover; 
     background-image: url('assets/images/oasis-thestory-final.jpg');
-    background-position: center; /* Center the background image */
-    width: 100%; /* Full width */
-    height: 906px; /* Adjust height based on content */
-    padding: 0; /* Optional padding */
+    background-position: center; 
+    width: 100%; 
+    height: 906px;
+    padding: 0; 
     padding-top: 5px;
 }
 
