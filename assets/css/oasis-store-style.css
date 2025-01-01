@@ -157,9 +157,6 @@ footer {
 .selected-collection-home {
     padding: 100px;
 }
-.selected-collection {
-    padding: 0;
-}
 
 .message {
     text-align: center;
@@ -175,6 +172,7 @@ footer {
 }
 
 .message-title {
+    paddint-top: 80px;
     font-size: 32px;
     font-weight: 50000;
     font-family: 'Instrument Sans', sans-serif;
